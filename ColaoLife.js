@@ -1,4 +1,4 @@
-let name = "Earl Troy Luchin"
+let name = "Stephen Colao "
 let course = "Bachelor of Science in Information Technology"
 let year = "2nd Year";
 
