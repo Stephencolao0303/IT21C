@@ -18,3 +18,9 @@ if (study>5) {
 } else {
     console.log("You need to study more.");
 }
+
+let subjects = ["Web System", "Event-Driven","OOP"];
+console.log("List of my subjects this sem:");
+for (let i = 0; i < subjects.length; i++) {
+console.log(subjects [i]);
+}
