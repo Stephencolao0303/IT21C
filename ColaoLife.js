@@ -11,3 +11,10 @@ let study = 2
 
 console.log("Total hours of sleep: "+ sleep);
 console.log("Total hours of study: "+ study);
+
+
+if (study>5) {
+    console.log("Great! You studied enough today.");
+} else {
+    console.log("You need to study more.");
+}
