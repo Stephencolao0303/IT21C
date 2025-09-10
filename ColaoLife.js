@@ -24,3 +24,10 @@ console.log("List of my subjects this sem:");
 for (let i = 0; i < subjects.length; i++) {
 console.log(subjects [i]);
 }
+
+function studentSummary() {
+    console.log("My name is "+name+", a "+year+" from "+course);
+    return studentSummary;
+
+}
+console.log(studentSummary());
